@@ -1,1 +1,1 @@
-# Intelligent-RNN-Chatbot
+# Intelligent-RNN-Text-Generator
