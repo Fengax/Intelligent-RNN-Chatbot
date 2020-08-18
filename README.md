@@ -12,4 +12,4 @@ Run main.py, select desired options and enter the text.
 
 ### Pre-trained model
 
-The pre-trained model checkpoint is trained on aggregated reddit posts and comments. 
+Unable to upload model checkpoint due to it being too large. 
